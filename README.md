@@ -1,0 +1,1 @@
+RxJava和RxAndroid实现的EventBus，可用tag注解投递事件。
